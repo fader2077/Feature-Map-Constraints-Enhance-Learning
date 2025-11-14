@@ -1,4 +1,3 @@
-# Feature Map Constraints Enhance Learning
 
 ## Abstract
 
